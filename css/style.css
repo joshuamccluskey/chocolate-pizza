@@ -55,3 +55,12 @@ header li {
 .six {
   background-repeat: round;
 }
+
+#note {
+  background-image: url(/img/list-bg.png);
+}
+
+#overlay {
+  background-image: url(/img/list-bg.png);
+  background-repeat: no-repeat ;
+}
